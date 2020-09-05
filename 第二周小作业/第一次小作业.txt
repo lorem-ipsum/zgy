@@ -1,0 +1,1 @@
+	1、阅读附件中的QUdpSocket讲解及例子.docx，熟悉QUdpSocket编程方法； 2、将课堂演示的聊天软件用UDP协议重写，即使用QUdpSocket编程。

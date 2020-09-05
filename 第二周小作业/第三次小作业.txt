@@ -1,0 +1,1 @@
+	用QTcpServer、QTcpSocket、QThread重新实现附件中的例子，实现web server的功能。
